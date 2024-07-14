@@ -1,4 +1,4 @@
 print("Learning Git Commands")
-a = 100
+a = 101
 b = 2
 print(a + b)
